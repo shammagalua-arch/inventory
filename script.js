@@ -9,7 +9,7 @@
 // https://script.google.com/macros/s/XXXXXXXX/exec
 
 const API_URL =
-  "https://script.google.com/macros/s/AKfycbwkb9U8uFAyfONwtXzFIoMlZTErvsCMwA9QPkulkwE8peYODYLcYA6ijiRc3CP95jZ_tw/exec";
+  "https://script.google.com/macros/s/AKfycbyB5DA3D8V_8ZvqhCWgeGx8OE1IyXFiRQIzleWHMXhVTSRwTqILpcUoMGRsD_jTxRbICg/exec";
 
 
 // ==========================================
